@@ -9,4 +9,4 @@ def fibo(n):
       y=y+x
       if y>=n:
         break
-fibo(14) 
+fibo(13) 
